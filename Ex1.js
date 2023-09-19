@@ -42,3 +42,4 @@ const enfant1= new Enfant(Nicolas,14);
 personne1.sePresenter();
 enfant1.sePresenter();
 Personne.afficherNombrePersonnes();
+Personne.afficherNombrePersonnes();
